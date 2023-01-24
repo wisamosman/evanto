@@ -1,0 +1,11 @@
+.btn{
+    width: 130px;
+    height: 50px;
+    background-color: #F56F5E;
+    color: white;
+}
+
+.d-flex :hover{
+background-color: white;
+color: blue;
+}
