@@ -9,3 +9,13 @@
 background-color: white;
 color: blue;
 }
+.navbar-nav{
+    margin-left: 375px;
+}
+.nav-link{
+    color: black;
+    font-size: 17px;
+}
+.an{
+    background-color: #FFFFFF;
+}
