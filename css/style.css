@@ -13,9 +13,40 @@ color: blue;
     margin-left: 375px;
 }
 .nav-link{
-    color: black;
+    color: white;
     font-size: 17px;
+    font-weight: 600;
 }
 .an{
-    background-color: #FFFFFF;
+
+    background-color: #FCFCFC;
+}
+.an1{
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ana{
+    margin-top: -35px;
+    width: 1000px;
+    margin-left: 15px;
+}
+.an2{
+    background-color: #FCFCFC;
+}
+span{
+    color: #F56F5E;
+}
+.an3{
+font-weight: 700;
+    margin-top: 101px
+}
+.an4{
+    font-weight: 800;
+    font-size: 50px;
+}
+.an7{
+    font-size: 38px;
+    font-weight: 900;
+    color: #F56F5E;
 }
